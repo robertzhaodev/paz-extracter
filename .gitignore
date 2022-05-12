@@ -24,3 +24,6 @@ extract-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+
+resources/pad00001
